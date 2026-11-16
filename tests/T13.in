@@ -1,0 +1,6 @@
+PROGRAM total=0 elective=0 mingpa=0.00 thesis_min_grade=C thesis_min_credits=0 thesis_min_gpa=0.00 maxload=24
+COURSE TH THESIS 1 OPEN
+STUDENT S13 Ivy
+ELIGIBLE S13 TH 2024-1
+REGISTER S13 TH 2024-1
+TRANSCRIPT S13

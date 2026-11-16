@@ -1,0 +1,10 @@
+PROGRAM total=0 elective=0 mingpa=0.00 thesis_min_grade=F thesis_min_credits=0 thesis_min_gpa=0.00 maxload=24
+COURSE A3 REGULAR 3 OPEN
+COURSE B5 REGULAR 5 OPEN
+STUDENT S3 Noor
+REGISTER S3 A3 2024-1
+REGISTER S3 B5 2024-1
+GRADE S3 A3 2024-1 A
+GRADE S3 B5 2024-1 B-
+GPA S3
+AVG S3

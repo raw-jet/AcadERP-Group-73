@@ -1,0 +1,14 @@
+# group-73
+acaderp
+acaderp.exe
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.gcda
+*.gcno
+*.gcov
+.DS_Store
+Thumbs.db

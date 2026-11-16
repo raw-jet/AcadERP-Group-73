@@ -1,0 +1,14 @@
+PROGRAM mystery=1
+PROGRAM total=0 total=1
+PROGRAM mingpa=5
+PROGRAM total=-1
+PROGRAM maxload=abc
+PROGRAM thesis_min_grade=S
+PROGRAM total
+PROGRAM total=0 elective=0 mingpa=0.00 thesis_min_grade=F thesis_min_credits=0 thesis_min_gpa=0.00 maxload=24
+COURSE C REGULAR 1 OPEN
+PROGRAM total=2
+STUDENT S26 Val
+REGISTER S26 C 2024-1
+GRADE S26 C 2024-1 A
+GRAD S26
